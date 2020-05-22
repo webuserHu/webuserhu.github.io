@@ -1,2 +1,0 @@
-# webuserhu.github.io
-blog
